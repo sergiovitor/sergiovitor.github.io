@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sergiovitor.pro.br/novo-post-brasil.html",
+            "url": "https://sergiovitor.pro.br/novo-post-brasil.html",
+            "title": "Novo post Brasil",
+            "summary": "Testando post após atualização.",
+            "content_html": "<p>Testando post após atualização.</p>",
+            "author": {
+                "name": "Sérgio Vitor"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-26T01:24:46-03:00",
+            "date_modified": "2023-06-26T01:24:46-03:00"
+        },
+        {
             "id": "https://sergiovitor.pro.br/post-teste.html",
             "url": "https://sergiovitor.pro.br/post-teste.html",
             "title": "Post teste",

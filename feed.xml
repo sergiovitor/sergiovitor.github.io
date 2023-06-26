@@ -3,12 +3,32 @@
     <title>Apenas compartilhando</title>
     <link href="https://sergiovitor.pro.br/feed.xml" rel="self" />
     <link href="https://sergiovitor.pro.br" />
-    <updated>2023-06-26T00:54:33-03:00</updated>
+    <updated>2023-06-26T01:24:46-03:00</updated>
     <author>
         <name>Sérgio Vitor</name>
     </author>
     <id>https://sergiovitor.pro.br</id>
 
+    <entry>
+        <title>Novo post Brasil</title>
+        <author>
+            <name>Sérgio Vitor</name>
+        </author>
+        <link href="https://sergiovitor.pro.br/novo-post-brasil.html"/>
+        <id>https://sergiovitor.pro.br/novo-post-brasil.html</id>
+
+        <updated>2023-06-26T01:24:46-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Testando post após atualização.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testando post após atualização.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Post teste</title>
         <author>
