@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Apenas compartilhando",
+    "description": "",
+    "home_page_url": "https://sergiovitor.pro.br",
+    "feed_url": "https://sergiovitor.pro.br/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sérgio Vitor"
+    },
+    "items": [
+        {
+            "id": "https://sergiovitor.pro.br/post-teste.html",
+            "url": "https://sergiovitor.pro.br/post-teste.html",
+            "title": "Post teste",
+            "summary": "Testando publicação no blog.",
+            "content_html": "<p>Testando publicação no blog.</p>",
+            "author": {
+                "name": "Sérgio Vitor"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-26T00:54:33-03:00",
+            "date_modified": "2023-06-26T00:54:33-03:00"
+        }
+    ]
+}
