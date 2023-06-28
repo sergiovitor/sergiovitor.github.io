@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://sergiovitor.pro.br/novo-post-brasil.html",
-            "url": "https://sergiovitor.pro.br/novo-post-brasil.html",
+            "id": "https://sergiovitor.pro.br/novo-post-brasil/",
+            "url": "https://sergiovitor.pro.br/novo-post-brasil/",
             "title": "Novo post Brasil",
             "summary": "Testando post após atualização.",
             "content_html": "<p>Testando post após atualização.</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2023-06-26T01:24:46-03:00"
         },
         {
-            "id": "https://sergiovitor.pro.br/post-teste.html",
-            "url": "https://sergiovitor.pro.br/post-teste.html",
+            "id": "https://sergiovitor.pro.br/post-teste/",
+            "url": "https://sergiovitor.pro.br/post-teste/",
             "title": "Post teste",
             "summary": "Testando publicação no blog.",
             "content_html": "<p>Testando publicação no blog.</p>",
