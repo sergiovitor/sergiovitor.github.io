@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sergiovitor.pro.br/teste-de-imagem/",
+            "url": "https://sergiovitor.pro.br/teste-de-imagem/",
+            "title": "Teste de imagem",
+            "summary": "Colocando uma imagem.",
+            "content_html": "<p>Colocando uma imagem.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://sergiovitor.pro.br/media/posts/3/SergioVitor-Foto2-2.jpg\" alt=\"\" width=\"483\" height=\"272\" sizes=\"100vw\" srcset=\"https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-xs.jpg 300w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-sm.jpg 480w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-md.jpg 768w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-lg.jpg 1024w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-xl.jpg 1360w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Sérgio Vitor"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-27T23:51:08-03:00",
+            "date_modified": "2023-06-27T23:51:08-03:00"
+        },
+        {
             "id": "https://sergiovitor.pro.br/novo-post-brasil/",
             "url": "https://sergiovitor.pro.br/novo-post-brasil/",
             "title": "Novo post Brasil",
