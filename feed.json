@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Apenas compartilhando",
+    "title": "Prof. Sérgio Vitor",
     "description": "",
     "home_page_url": "https://sergiovitor.pro.br",
     "feed_url": "https://sergiovitor.pro.br/feed.json",
     "user_comment": "",
+    "icon": "https://sergiovitor.pro.br/media/website/LogoSergio2.png",
     "author": {
         "name": "Sérgio Vitor"
     },
@@ -22,34 +23,6 @@
             ],
             "date_published": "2023-06-27T23:51:08-03:00",
             "date_modified": "2023-06-27T23:51:08-03:00"
-        },
-        {
-            "id": "https://sergiovitor.pro.br/novo-post-brasil/",
-            "url": "https://sergiovitor.pro.br/novo-post-brasil/",
-            "title": "Novo post Brasil",
-            "summary": "Testando post após atualização.",
-            "content_html": "<p>Testando post após atualização.</p>",
-            "author": {
-                "name": "Sérgio Vitor"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-06-26T01:24:46-03:00",
-            "date_modified": "2023-06-26T01:24:46-03:00"
-        },
-        {
-            "id": "https://sergiovitor.pro.br/post-teste/",
-            "url": "https://sergiovitor.pro.br/post-teste/",
-            "title": "Post teste",
-            "summary": "Testando publicação no blog.",
-            "content_html": "<p>Testando publicação no blog.</p>",
-            "author": {
-                "name": "Sérgio Vitor"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-06-26T00:54:33-03:00",
-            "date_modified": "2023-06-26T00:54:33-03:00"
         }
     ]
 }
