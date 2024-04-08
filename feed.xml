@@ -3,12 +3,32 @@
     <title>Apenas compartilhando</title>
     <link href="https://sergiovitor.pro.br/feed.xml" rel="self" />
     <link href="https://sergiovitor.pro.br" />
-    <updated>2024-04-08T18:59:41-03:00</updated>
+    <updated>2024-04-08T19:47:46-03:00</updated>
     <author>
         <name>Sérgio Vitor</name>
     </author>
     <id>https://sergiovitor.pro.br</id>
 
+    <entry>
+        <title>Teste NUMILI</title>
+        <author>
+            <name>Sérgio Vitor</name>
+        </author>
+        <link href="https://sergiovitor.pro.br/teste-numili/"/>
+        <id>https://sergiovitor.pro.br/teste-numili/</id>
+
+        <updated>2024-04-08T19:47:46-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Olá Mundo!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Olá Mundo!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Teste abril</title>
         <author>
