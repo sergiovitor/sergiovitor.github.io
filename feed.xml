@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Prof. Sérgio Vitor</title>
+    <title>Apenas compartilhando</title>
     <link href="https://sergiovitor.pro.br/feed.xml" rel="self" />
     <link href="https://sergiovitor.pro.br" />
-    <updated>2023-06-27T23:51:08-03:00</updated>
+    <updated>2024-04-08T18:59:41-03:00</updated>
     <author>
-        <name>Prof. Sérgio Vitor</name>
+        <name>Sérgio Vitor</name>
     </author>
     <id>https://sergiovitor.pro.br</id>
 
     <entry>
+        <title>Teste abril</title>
+        <author>
+            <name>Sérgio Vitor</name>
+        </author>
+        <link href="https://sergiovitor.pro.br/teste-abril/"/>
+        <id>https://sergiovitor.pro.br/teste-abril/</id>
+
+        <updated>2024-04-08T18:59:41-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
         <title>Teste de imagem</title>
         <author>
-            <name>Prof. Sérgio Vitor</name>
+            <name>Sérgio Vitor</name>
         </author>
         <link href="https://sergiovitor.pro.br/teste-de-imagem/"/>
         <id>https://sergiovitor.pro.br/teste-de-imagem/</id>
@@ -27,6 +39,46 @@
             <![CDATA[
                 <p>Colocando uma imagem.</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://sergiovitor.pro.br/media/posts/3/SergioVitor-Foto2-2.jpg" alt="" width="483" height="272" sizes="100vw" srcset="https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-xs.jpg 300w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-sm.jpg 480w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-md.jpg 768w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-lg.jpg 1024w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-xl.jpg 1360w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Novo post Brasil</title>
+        <author>
+            <name>Sérgio Vitor</name>
+        </author>
+        <link href="https://sergiovitor.pro.br/novo-post-brasil/"/>
+        <id>https://sergiovitor.pro.br/novo-post-brasil/</id>
+
+        <updated>2023-06-26T01:24:46-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Testando post após atualização.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testando post após atualização.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Post teste</title>
+        <author>
+            <name>Sérgio Vitor</name>
+        </author>
+        <link href="https://sergiovitor.pro.br/post-teste/"/>
+        <id>https://sergiovitor.pro.br/post-teste/</id>
+
+        <updated>2023-06-26T00:54:33-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Testando publicação no blog.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testando publicação no blog.</p>
             ]]>
         </content>
     </entry>

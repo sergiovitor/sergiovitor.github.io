@@ -1,15 +1,26 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Prof. Sérgio Vitor",
+    "title": "Apenas compartilhando",
     "description": "",
     "home_page_url": "https://sergiovitor.pro.br",
     "feed_url": "https://sergiovitor.pro.br/feed.json",
     "user_comment": "",
-    "icon": "https://sergiovitor.pro.br/media/website/LogoSergio3.svg",
     "author": {
-        "name": "Prof. Sérgio Vitor"
+        "name": "Sérgio Vitor"
     },
     "items": [
+        {
+            "id": "https://sergiovitor.pro.br/teste-abril/",
+            "url": "https://sergiovitor.pro.br/teste-abril/",
+            "title": "Teste abril",
+            "author": {
+                "name": "Sérgio Vitor"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-08T18:59:41-03:00",
+            "date_modified": "2024-04-08T18:59:41-03:00"
+        },
         {
             "id": "https://sergiovitor.pro.br/teste-de-imagem/",
             "url": "https://sergiovitor.pro.br/teste-de-imagem/",
@@ -17,12 +28,40 @@
             "summary": "Colocando uma imagem.",
             "content_html": "<p>Colocando uma imagem.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://sergiovitor.pro.br/media/posts/3/SergioVitor-Foto2-2.jpg\" alt=\"\" width=\"483\" height=\"272\" sizes=\"100vw\" srcset=\"https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-xs.jpg 300w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-sm.jpg 480w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-md.jpg 768w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-lg.jpg 1024w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-xl.jpg 1360w ,https://sergiovitor.pro.br/media/posts/3/responsive/SergioVitor-Foto2-2-2xl.jpg 1600w\"></figure>",
             "author": {
-                "name": "Prof. Sérgio Vitor"
+                "name": "Sérgio Vitor"
             },
             "tags": [
             ],
             "date_published": "2023-06-27T23:51:08-03:00",
             "date_modified": "2023-06-27T23:51:08-03:00"
+        },
+        {
+            "id": "https://sergiovitor.pro.br/novo-post-brasil/",
+            "url": "https://sergiovitor.pro.br/novo-post-brasil/",
+            "title": "Novo post Brasil",
+            "summary": "Testando post após atualização.",
+            "content_html": "<p>Testando post após atualização.</p>",
+            "author": {
+                "name": "Sérgio Vitor"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-26T01:24:46-03:00",
+            "date_modified": "2023-06-26T01:24:46-03:00"
+        },
+        {
+            "id": "https://sergiovitor.pro.br/post-teste/",
+            "url": "https://sergiovitor.pro.br/post-teste/",
+            "title": "Post teste",
+            "summary": "Testando publicação no blog.",
+            "content_html": "<p>Testando publicação no blog.</p>",
+            "author": {
+                "name": "Sérgio Vitor"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-26T00:54:33-03:00",
+            "date_modified": "2023-06-26T00:54:33-03:00"
         }
     ]
 }
